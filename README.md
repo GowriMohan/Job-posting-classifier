@@ -1,7 +1,7 @@
 # Job_posting_classifier
 
 This project aims to create a classifier that will have the capability to identify fake and real jobs.
-This project uses data provided from Kaggle. This data contains features that define a job posting. These job postings are categorized as either real or fake. Fake job postings are a very small fraction of this dataset. That is as excepted.
+This project uses data provided from Kaggle which contains features that define a job posting. These job postings are categorized as either real or fake. Fake job postings are a very small fraction of this dataset, which is as excepted.
 
 
 We are using 8 features to check whether the job posting is fraudulent or not (i.e., Fake/Real).
