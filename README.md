@@ -6,7 +6,7 @@ This project uses data provided from Kaggle which contains features that define 
 
 We are using 8 features to check whether the job posting is fraudulent or not (i.e., Fake/Real).
 
-The best performed model is Random Forest Classifier with an accuracy of 0.92.
+The best performed model is Random Forest Classifier with an accuracy of 92%.
 
 
 The link to the deployed app is here:
