@@ -7,4 +7,4 @@ This project uses data provided from Kaggle which contains features that define 
 The best performed model is Random Forest Classifier with an accuracy of 92%.
 
 The link to the deployed app is here:
-            https://gowrimohan-job-posting-classifier-app-kf3498.streamlit.app/
+            https://gowrimohan-job-posting-classifier-app-m6jdsb.streamlit.app/
